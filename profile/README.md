@@ -12,5 +12,3 @@ Based at PLNT, Leiden, the Netherlands.
 - 🎥 [Demos](https://mutablelabs.ai/demo)
 - 👥 [About the team](https://mutablelabs.ai/about)
 - ✉️ [Discuss a deployment](https://mutablelabs.ai/contact)
-
-*Not affiliated with the former Mutable.ai (code documentation, YC W22).*
